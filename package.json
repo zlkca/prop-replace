@@ -1,5 +1,5 @@
 {
-  "name": "prop-replace",
+  "name": "prop-val-replace",
   "version": "1.0.0",
   "description": "Replace field values for a nested object",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zlkca/prop-replace.git"
+    "url": "git+https://github.com/zlkca/prop-val-replace.git"
   },
   "keywords": [
     "properties",
@@ -22,7 +22,7 @@
   "author": "zlkca",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zlkca/prop-replace/issues"
+    "url": "https://github.com/zlkca/prop-val-replace/issues"
   },
-  "homepage": "https://github.com/zlkca/prop-replace#readme"
+  "homepage": "https://github.com/zlkca/prop-val-replace#readme"
 }
